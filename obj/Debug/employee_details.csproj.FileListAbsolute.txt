@@ -1,0 +1,7 @@
+D:\EQ SOFT\C#\employee_details\bin\Debug\employee_details.exe.config
+D:\EQ SOFT\C#\employee_details\bin\Debug\employee_details.exe
+D:\EQ SOFT\C#\employee_details\bin\Debug\employee_details.pdb
+D:\EQ SOFT\C#\employee_details\obj\Debug\employee_details.csproj.AssemblyReference.cache
+D:\EQ SOFT\C#\employee_details\obj\Debug\employee_details.csproj.CoreCompileInputs.cache
+D:\EQ SOFT\C#\employee_details\obj\Debug\employee_details.exe
+D:\EQ SOFT\C#\employee_details\obj\Debug\employee_details.pdb
